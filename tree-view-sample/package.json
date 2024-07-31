@@ -210,7 +210,7 @@
 					"jsonOutline.autorefresh": {
 						"type": "boolean",
 						"description": "Auto refresh the JSON outline view when the contents of the json file change.",
-						"default": false
+						"default": true
 					}
 				}
 			}
